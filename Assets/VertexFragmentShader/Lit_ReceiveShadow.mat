@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Lit_SimpleDiffuse
-  m_Shader: {fileID: 4800000, guid: 74d89a88114abb2428b438e401ae9c10, type: 3}
+  m_Name: Lit_ReceiveShadow
+  m_Shader: {fileID: 4800000, guid: 08e696c4526c25340a9c81458af04b93, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
